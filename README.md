@@ -1,3 +1,7 @@
+**This repository is deprecated in favour of [the new Ruby
+version](https://github.com/SteveMarshall/pagerduty-calendar-fixer)**
+
+
 `pagerduty-fix`
 ===============
 
